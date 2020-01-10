@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+  SpaceSnifferDlg.cpp
+  SpaceSniffer.cpp
+  正在生成代码...
+  SpaceSniffer.vcxproj -> D:\Git\SpaceSniffer\SpaceSnifferSolution\Debug\SpaceSniffer.exe
+  SpaceSniffer.vcxproj -> D:\Git\SpaceSniffer\SpaceSnifferSolution\Debug\SpaceSniffer.pdb (Partial PDB)
